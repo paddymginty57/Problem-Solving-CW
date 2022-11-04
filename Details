@@ -1,0 +1,52 @@
+Zombie:-
+health 10
+damage 3
+
+Increase:-
+health increase by 5
+damage increase by 3
+
+attack speed is every 2 seconds
+
+move speed for one block is every 4 seconds
+stage 3 is every 3 seconds
+stage 5 is every 2 seconds
+
+-------------------------------------
+
+Fence:-
+health 15
+
+2 increases of 15 each
+
+
+-------------------------------------
+
+Guns:-
+damage 4
+
+1st increase total dmg 5
+2nd increase total dmg 7
+3rd increase total dmg 10
+
+0.5 secs delay
+
+-------------------------------------
+Money:-
+
+stage 1-
+stage 2-
+stage 3-
+stage 4-
+stage 5-
+
+-------------------------------------
+
+Upgrades:-
+
+Fence 1- 10
+Fence 2- 50
+
+gun 1- 10
+gun 2- 25
+gun 3- 75
